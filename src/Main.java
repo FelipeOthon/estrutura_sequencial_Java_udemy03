@@ -27,7 +27,7 @@ public class Main {
 
         salario = horasTrabalhadas * valorHoras;
 
-        System.out.printf("O funcionario do numero %.1f, trabalhou %.2f e seu salario será %.2f", numero, horasTrabalhadas, salario );
+        System.out.printf("O funcionario do numero %d, trabalhou %.1f e seu salario será %.2f", numero, horasTrabalhadas, salario );
 
 
 
